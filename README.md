@@ -58,3 +58,6 @@ java -Xmx1024M -Xms512M -jar minecraft_server.jar nogui
 
 客户端下载后，下载游戏版本要与服务器版本一致。
 
+
+## 后续看找几个其他专业服务器上去玩玩-。-
+
