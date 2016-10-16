@@ -42,11 +42,11 @@ java -Xmx1024M -Xms512M -jar minecraft_server.jar nogui
     pvp=true                            //是否有玩家攻击伤害
     difficulty=1                        //难度 0:和平 1:简单 2:普通 3:困难
     enable-command-block=false            //是否允许命令方块
-    gamemode=0                            //模式 0:生存模式 1:创造模式
+    gamemode=1                            //模式 0:生存模式 1:创造模式
     player-idle-timeout=0
     max-players=20
     max-tick-time=60000
-    spawn-monsters=true   //!!!!!!局域网一定要弄成false
+    spawn-monsters=false   //!!!!!!局域网一定要弄成false
     generate-structures=true
     view-distance=10
     motd=A Minecraft Server                //服务器名称
